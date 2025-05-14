@@ -1,0 +1,22 @@
+/* src/components/Header.css */
+.header-container {
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  text-align: center;
+  padding: 15px; /* Reduced height */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* Slightly more subtle shadow */
+}
+
+.header-container h1 {
+  font-size: 2.2rem; /* Slightly smaller font size */
+  margin-bottom: 8px;
+  font-weight: 600; /* Bold font weight */
+}
+
+.header-container p {
+  font-size: 1.1rem; /* Slightly smaller text for the paragraph */
+  margin-top: 5px;
+  font-weight: 400; /* Regular font weight */
+  opacity: 0.8; /* Slight opacity for a softer effect */
+}
